@@ -1,4 +1,6 @@
-### Introduce.
+### Hi there 👋
+
+<!-- ### Introduce.
 동작 원리와 핵심 아이디어를 학습하기 위해 노력하는 신입 백엔드 개발자입니다. 
 
 #### Project
@@ -8,7 +10,7 @@
 개인
 - [Photogram (~ing)](https://regal-dogwood-000.notion.site/Photogram-ing-71a41758dabe4813afc167188595327e)
 
-스터디에서 발표한 내용과 혼자 공부한 것을 정리한 저장소 입니다. => [Study](https://regal-dogwood-000.notion.site/Study-984f05ca1ccc4ca6a12e44c4625ab6a3)
+스터디에서 발표한 내용과 혼자 공부한 것을 정리한 저장소 입니다. => [Study](https://regal-dogwood-000.notion.site/Study-984f05ca1ccc4ca6a12e44c4625ab6a3) -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgunny6026%2Fhit-counter&count_bg=%2379C83D&title_bg=%23504B4B&icon=maserati.svg&icon_color=%23C4C8D1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
