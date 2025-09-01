@@ -1,16 +1,5 @@
 ### Hi there 👋
 
-<!-- ### Introduce.
-동작 원리와 핵심 아이디어를 학습하기 위해 노력하는 신입 백엔드 개발자입니다. 
-
-#### Project
-팀
-- [막둥이 (화상 회의록 자동 작성 서비스)](https://regal-dogwood-000.notion.site/57e4b1c19f454d71abca3d72ec929caf)
-
-개인
-- [Photogram (~ing)](https://regal-dogwood-000.notion.site/Photogram-ing-71a41758dabe4813afc167188595327e)
-
-스터디에서 발표한 내용과 혼자 공부한 것을 정리한 저장소 입니다. => [Study](https://regal-dogwood-000.notion.site/Study-984f05ca1ccc4ca6a12e44c4625ab6a3) -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgunny6026%2Fhit-counter&count_bg=%2379C83D&title_bg=%23504B4B&icon=maserati.svg&icon_color=%23C4C8D1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -25,6 +14,12 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunny6026)](https://solved.ac/gunny6026/)
 
+
+### 📄 Contents
+
+- [import 문을 줄이는 가장 우아한 방법 (feat: ApplicationEvent)](https://connieya.github.io/loose-coupling-with-events/)
+- [인덱스를 걸었는데, 왜 느리죠? (feat. 5초를 0.03초로 만든 쿼리 삽질기)](https://connieya.github.io/why-is-my-query-slow-after-indexing/)
+- [좋아요' 버튼을 두 번 누르면 무슨 일이 생길까?](https://connieya.github.io/like-feature-idempotency-and-concurrency/)
 
 <!--
 **gunny6026/gunny6026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
