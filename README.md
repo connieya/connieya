@@ -17,9 +17,11 @@
 
 ### 📄 Contents
 
+- [kafka 아는 척 해보기](https://connieya.github.io/why-we-use-kafka/)
 - [import 문을 줄이는 가장 우아한 방법 (feat: ApplicationEvent)](https://connieya.github.io/loose-coupling-with-events/)
 - [인덱스를 걸었는데, 왜 느리죠? (feat. 5초를 0.03초로 만든 쿼리 삽질기)](https://connieya.github.io/why-is-my-query-slow-after-indexing/)
 - [좋아요' 버튼을 두 번 누르면 무슨 일이 생길까?](https://connieya.github.io/like-feature-idempotency-and-concurrency/)
+- [Mock, Spy 그리고 Fake: 당신의 테스트는 무엇을 검증하고 있는가?](https://connieya.github.io/beyond-mocks-the-world-of-spy-and-fake/)
 
 <!--
 **gunny6026/gunny6026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
